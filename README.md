@@ -9,6 +9,7 @@
 #### Windows
 
 * [Node.js](https://nodejs.org/ja/download/)
+* `npm install -g yarn`
 
 * [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
   * C++ build tools
@@ -23,6 +24,7 @@
 
 ```bash
 brew install node
+npm install -g yarn
 
 xcode-select --install
 
